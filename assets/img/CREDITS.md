@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Cedric Fauntleroy
+- infra/interior.jpg — Marc Chemla
+- rooms/implant.jpg — cottonbro studio
+- rooms/braces.jpg — cottonbro studio
+- rooms/hygiene.jpg — Sora Shimazaki
+- rooms/whitening.jpg — https://kaboompics.com/
+- rooms/exam.jpg — Andrea Piacquadio
+- rooms/kids.jpg — . MM Dental .
+- infra/tools.jpg — https://kaboompics.com/
+- infra/hands.jpg — https://kaboompics.com/
