@@ -71,7 +71,7 @@ body.menu-open .burger span:nth-child(2){opacity:0}
 body.menu-open .burger span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
 /* logo slot */
 .brand-img{display:none;width:auto;object-fit:contain}
-.hdr__logo.has-logo .brand-img{display:block;height:80px;max-width:360px}
+.hdr__logo.has-logo .brand-img{display:block;height:90px;max-width:360px}
 .hdr__logo.has-logo .brand-lockup{display:none}
 .ft__logo.has-logo .brand-img{display:block;height:120px;max-width:460px}
 .ft__logo.has-logo .brand-lockup{display:none}
