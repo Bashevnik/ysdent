@@ -262,3 +262,14 @@ body.menu-open .mmenu{opacity:1;visibility:visible;transform:none}
   .contacts__list li{grid-template-columns:1fr}
 }
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.band__track,.svc-track{transform:none!important}}
+
+/* mobile header: compact height + logo flush-left, never overflowing */
+@media(max-width:640px){
+  .hdr{padding-top:8px;padding-bottom:8px;gap:14px}
+  .hdr.is-scrolled{padding-top:6px;padding-bottom:6px}
+  .hdr__logo{margin-left:0}
+  .hdr__logo.has-logo .brand-img{height:44px;max-width:64vw}
+}
+@media(max-width:380px){
+  .hdr__logo.has-logo .brand-img{height:40px;max-width:66vw}
+}
